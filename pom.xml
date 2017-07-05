@@ -4,7 +4,7 @@
   <groupId>com.scmgalaxy.mavensample</groupId>
   <artifactId>my-maven</artifactId>
   <packaging>jar</packaging>
-  <version>12666744466677777666.0-SNAPSHOT</version>
+  <version>13.0-SNAPSHOT</version>
   <name>my-maven</name>
   <url>http://maven.apache.org</url>
   <dependencies>
@@ -37,13 +37,13 @@
 	<repository>
 		<id>deployment</id>
 		<name>Internal Releases</name>
-		<url>http://35.154.48.174:8081/nexus/content/repositories/releases/</url>
+		<url>http://13.126.91.90:8081/repository/ddemo/</url>
 	</repository>
  
 	<snapshotRepository>
 		<id>deployment</id>
 		<name>Internal Releases</name>
-		<url>http://35.154.48.174:8081/nexus/content/repositories/snapshots/</url>
+		<url>http://13.126.91.90:8081/repository/ddemo/</url>
 	</snapshotRepository>
 
 </distributionManagement>
