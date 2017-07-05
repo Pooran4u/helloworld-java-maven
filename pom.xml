@@ -15,9 +15,9 @@
       <scope>test</scope>
     </dependency>
 	   <dependency>
-      <groupId>com.ashu</groupId>
-      <artifactId>ashutest</artifactId>
-      <version>123.0</version>
+      <groupId>com.scmgalaxy.mavensample</groupId>
+      <artifactId>my-maven</artifactId>
+      <version>12666744466677777666.0-20170705.062904-2</version>
       <scope>test</scope>
     </dependency>
   </dependencies>
