@@ -14,6 +14,12 @@
       <version>3.8.1</version>
       <scope>test</scope>
     </dependency>
+	   <dependency>
+      <groupId>com.ashu</groupId>
+      <artifactId>ashutest</artifactId>
+      <version>123.0</version>
+      <scope>test</scope>
+    </dependency>
   </dependencies>
   
   <build>
